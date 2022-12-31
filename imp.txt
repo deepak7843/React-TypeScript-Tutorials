@@ -1,0 +1,6 @@
+React TypeScript Tutorial - 5 - Advanced Props
+
+Codevolution
+
+
+https://www.youtube.com/watch?v=zLyeWSfTMa8&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK&index=5
