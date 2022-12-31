@@ -10,7 +10,7 @@ export const Greet = (props: GreetProps) => {
     <div>
       {props.isLoggedIn ? (
         <h2>
-          Hey {props.name}! You have {messageCount} unread messages
+          Hey {props.name}! You have {55 unread messages
         </h2>
       ) : (
         <h2>Welcome Guest</h2>

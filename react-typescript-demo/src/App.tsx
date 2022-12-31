@@ -44,11 +44,11 @@ function App() {
 
   return (
     <div className='App'>
-      <Greet name='Vishwas' isLoggedIn={false} />
+      <Greet name='Vishwas' isLoggedIn={true} />
       <Person name={personName} />
       <PersonList names={nameList} />
       <Status status='loading' />
-      <Heading>Placeholder text</Heading>
+      <Heading>Placeholder text  </Heading>
       <Oscar>
         <Heading>Oscar goes to Dicaprio</Heading>
       </Oscar>
